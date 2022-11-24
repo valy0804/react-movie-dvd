@@ -1,0 +1,49 @@
+/* .movie-card img {
+  width: 200px;
+  height: auto;
+}
+
+.movie-card ul {
+  list-style: none;
+  padding: 0px;
+  margin: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movie-card li {
+  list-style: none;
+}
+
+.movie-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.buy-button {
+  width: 40%;
+  background-color: #fb8500 !important;
+  color: white !important;
+} */
+
+.card-content{
+  text-align: center;
+  
+}
+
+
+.card-title{
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.card-type {
+  display: flex;
+  justify-content: space-around;
+  /* width: 100%; */
+  padding: 3px 7px;
+}
+

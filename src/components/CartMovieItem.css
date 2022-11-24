@@ -1,0 +1,15 @@
+.cart-movie-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+}
+
+.del-btn{
+    color: white;
+    background-color:  rgb(222, 8, 8);
+    border-style: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

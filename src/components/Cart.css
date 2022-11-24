@@ -1,0 +1,38 @@
+.cart-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cart-title{
+   padding: 70px;
+   font-size: 20px;
+   align-items: center;
+}
+
+
+ul{
+    list-style: none;
+    padding: 20px;
+    
+}
+
+.cart-button{
+    padding: 12px ;
+    width: 150px;
+    font-size: 18px;
+    background-color: rgb(55, 105, 233);
+    color: white;
+    border-radius: 15px;
+    border-style: none;
+    margin: 0 auto;
+    margin-top:40px;
+  
+
+}
+
+.cart-total{
+    font-size: 18px;
+    padding-top: 30px;
+    margin-left: 75px;
+}
